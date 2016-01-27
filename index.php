@@ -11,8 +11,9 @@
 				<div class="container">
 					<h1>Dylan's Profe$$ional Web Page</h1>
 				</div>
-			</header>
-			<main>
+			</header>><br>
+
+		<main>
 				<div class="container">
 					<div class="instructions">
 						<h2>Instructions</h2>
