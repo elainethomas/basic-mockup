@@ -80,8 +80,8 @@ footer {
 	min-width: 100%;
 	margin: 0 auto;
 	padding: 0;
-	height:80px;
-	background: rgba(0, 0, 1, 0.84);
+	height:60px;
+	background: black;
 	font-style: italic;
 	font-size: small;
 	color: darkgray;
@@ -89,4 +89,5 @@ footer {
 
 .janebox {
 	background-color: rgba(134, 205, 249, 0.84);
+	padding: 5px;
 }
