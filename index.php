@@ -15,15 +15,15 @@
 
 		<main>
 				<div class="container">
-					<div class="instructions">
-						<h2>Instructions</h2>
-						<ol>
-							<li>Fork and clone the following GitHub repository, and create a new project in PhpStorm: <a
+				<div class="instructions">
+					<h2>Instructions</h2>
+					<ol>
+						<li>Fork and clone the following GitHub repository, and create a new project in PhpStorm: <a
 								href="https://github.com/rlewis2892/basic-mockup" target="_blank">https://github.com/rlewis2892/basic-mockup</a></li>
-							<li>Using basic CSS, style this page like the mockup image here: <a href="mockup.php" target="_blank">Mockup Image</a></li>
-							<li>Have fun! We will be going over each student's project in class. :D</li>
-						</ol>
-					</div><br>
+						<li>Using basic CSS, style this page like the mockup image here: <a href="mockup.php" target="_blank">Mockup Image</a></li>
+						<li>Have fun! We will be going over each student's project in class. :D</li>
+					</ol>
+				</div><br>
 					<img class="pull-left" src="img/star-trek-cat.jpg" alt="star trek cat" />
 					<h2>These are the voyages of the Starship Enterprise!</h2>
 					<p>Its continuing mission, to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no one has gone before. We need to neutralize the homing signal. Each unit has total environmental control, gravity, temperature, atmosphere, light, in a protective field. Sensors show energy readings in your area. We had a forced chamber explosion in the resonator coil. Field strength has increased by 3,000 percent.</p>
