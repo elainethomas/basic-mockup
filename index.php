@@ -11,7 +11,7 @@
 				<div class="container">
 					<h1>Dylan's Profe$$ional Web Page</h1>
 				</div>
-			</header>><br>
+			</header><br>
 
 		<main>
 				<div class="container">
