@@ -59,7 +59,7 @@ h1 {
 }
 .instructions {
 	border: 4px solid #dcdcdc;
-	padding:5px;
+	padding:10px;
 }
 
 .pull-left {
@@ -89,5 +89,5 @@ footer {
 
 .janebox {
 	background-color: rgba(134, 205, 249, 0.84);
-	padding: 5px;
+	padding: 10px;
 }
