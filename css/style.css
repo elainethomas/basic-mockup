@@ -5,14 +5,15 @@
 * Edit and add CSS rules to this files as you see fit! :D
 ********************************************/
 
-html,
-body {
-	margin: 0;
+html,body {
+	width: 1000px;
+	padding: 10px;
 }
 
 .container {
 	margin: 0 auto;
 	width: 1170px;
+
 }
 
 .clear {
@@ -29,7 +30,10 @@ body {
 
 /*corrects IE min-height bug*/
 html { display: flex;}
-body { width: 100%;}
+body {
+	width: 100%;
+	font-family: Calibri, sans-serif;
+}
 
 .sfooter {
 	display: flex;
@@ -39,4 +43,17 @@ body { width: 100%;}
 
 .sfooter-content {
 	flex: 1 0 auto;
+}
+
+header {
+	margin:0;
+	height:40px;
+	background: rgba(134, 205, 249, 0.84) top center;
+}
+
+h1 {
+	font-size: 30px;
+}
+.instructions {
+	border: 3px solid #dcdcdc;
 }
