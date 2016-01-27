@@ -5,9 +5,9 @@
 * Edit and add CSS rules to this files as you see fit! :D
 ********************************************/
 
-html,body {
-	width: 1000px;
-	padding: 10px;
+html,
+body {
+	margin: 0;
 }
 
 .container {
@@ -46,7 +46,8 @@ body {
 }
 
 header {
-	margin:0;
+	min-width: 100%;
+	margin: 0 auto 0 auto;
 	height:40px;
 	background: rgba(134, 205, 249, 0.84) top center;
 }
