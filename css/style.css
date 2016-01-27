@@ -58,3 +58,8 @@ h1 {
 .instructions {
 	border: 3px solid #dcdcdc;
 }
+
+.pull-left {
+	float: left;
+	border: 3px solid #dcdcdc;
+}
